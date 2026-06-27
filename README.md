@@ -404,6 +404,7 @@ Firestore cannot partially hide a single sensitive field inside a readable docum
 - Storage-backed document uploads for NGO and volunteer verification
 - Better report deduplication and suspicious activity detection
 - NGO-owned operational analytics and downloadable reports
+- Offline-first mobile workflows for disaster zones
 - Government or district-level incident escalation workflows
 
 ## Team
